@@ -41,15 +41,21 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 
 ## 📈 GitHub stats ...
 
-<a style="display: block" href="https://github.com/drph4nt0m/drph4nt0m">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drph4nt0m&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
-</a>
-<a style="display: block" href="https://github.com/drph4nt0m/drph4nt0m">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drph4nt0m&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Luke's GitHub Stats" />
-</a>
-<a style="display: block" href="https://github.com/drph4nt0m/avbot-v3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drph4nt0m&repo=avbot-v3&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
-</a>
+<p>
+  <a href="https://github.com/drph4nt0m/drph4nt0m">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drph4nt0m&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/drph4nt0m/drph4nt0m">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=drph4nt0m&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Luke's GitHub Stats" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/drph4nt0m/avbot-v3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drph4nt0m&repo=avbot-v3&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+  </a>
+</p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
