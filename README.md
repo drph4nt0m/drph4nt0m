@@ -15,6 +15,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=6e33ba)
