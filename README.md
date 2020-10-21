@@ -20,6 +20,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=ionic&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6e33ba)
 
 ## 🤔 I’m looking for help with ...
