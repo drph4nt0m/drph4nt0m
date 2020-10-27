@@ -15,7 +15,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ## Want to support me?
 
 <a href="http://buymeacoff.ee/drph4nt0m" target="_blank">
-  <img alt="http://buymeacoff.ee/drph4nt0m | Buy me a coffee" height="20px" src="./readme_assets/bmc-btn.svg" style="background: #FFDD00; padding: 10px 30px; border-radius: 10px;" />
+  <img alt="http://buymeacoff.ee/drph4nt0m | Buy me a coffee" height="20px" src="./readme_assets/bmc.png" style="background: #FFDD00; padding: 10px 30px; border-radius: 10px;" />
 </a>
 
 <a href="https://ko-fi.com/drph4nt0m" target="_blank">
