@@ -1,16 +1,26 @@
 ## Hello, folks! <img src="./readme_assets/wave.webp" width="30px">
 
 <a href="https://twitter.com/dr_ph4nt0m" target="_blank">
-  <img alt="dr_ph4nt0m | Twitter" height="30px" src="https://img.shields.io/twitter/follow/dr_ph4nt0m?label=dr_ph4nt0m&logo=twitter&style=for-the-badge" />
+  <img alt="@dr_ph4nt0m | Twitter" height="30px" src="https://img.shields.io/twitter/follow/dr_ph4nt0m?label=dr_ph4nt0m&logo=twitter&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/ph4nt0m" target="_blank">
-  <img alt="ph4nt0m | LinkedIn" height="30px" src="https://img.shields.io/badge/ph4nt0m-235-lightgrey?logo=linkedin&style=for-the-badge" />
+  <img alt="@ph4nt0m | LinkedIn" height="30px" src="https://img.shields.io/badge/ph4nt0m-235-lightgrey?logo=linkedin&style=for-the-badge" />
 </a>
 <a href="https://dr.ph4nt0m.me" target="_blank">
   <img alt="https://dr.ph4nt0m.me | Website" height="30px" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fdr.ph4nt0m.me&label=https://dr.ph4nt0m.me" />
 </a>
 
 I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and a student.
+
+## Want to support me?
+
+<a href="http://buymeacoff.ee/drph4nt0m" target="_blank">
+  <img alt="http://buymeacoff.ee/drph4nt0m | Buy me a coffee" src="./readme_assets/bmc-btn.svg" style="height: 50px; box-sizing:border-box; background: #FFDD00; padding: 10px 30px; border-radius: 10px;" />
+</a>
+
+<a href="https://ko-fi.com/drph4nt0m" target="_blank">
+  <img alt="https://ko-fi.com/drph4nt0m | Ko-Fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" height="50px;"/>
+</a>
 
 ## 🔭 I’m currently working on ...
 

@@ -284,6 +284,19 @@ img.invert {
 
       .info {
         margin: 5em 0;
+
+        .donation-buttons {
+          padding-top: 5rem;
+          display: flex;
+          flex-direction: row;
+          gap: 2rem;
+
+          @media (max-width: 1000px) {
+            & {
+              flex-direction: column;
+            }
+          }
+        }
       }
     }
   }
