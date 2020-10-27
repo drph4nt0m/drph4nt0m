@@ -15,11 +15,11 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ## Want to support me?
 
 <a href="http://buymeacoff.ee/drph4nt0m" target="_blank">
-  <img alt="http://buymeacoff.ee/drph4nt0m | Buy me a coffee" src="./readme_assets/bmc-btn.svg" style="height: 50px; box-sizing:border-box; background: #FFDD00; padding: 10px 30px; border-radius: 10px;" />
+  <img alt="http://buymeacoff.ee/drph4nt0m | Buy me a coffee" height="20px" src="./readme_assets/bmc-btn.svg" style="background: #FFDD00; padding: 10px 30px; border-radius: 10px;" />
 </a>
 
 <a href="https://ko-fi.com/drph4nt0m" target="_blank">
-  <img alt="https://ko-fi.com/drph4nt0m | Ko-Fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" height="50px;"/>
+  <img alt="https://ko-fi.com/drph4nt0m | Ko-Fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" height="40px;"/>
 </a>
 
 ## 🔭 I’m currently working on ...
