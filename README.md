@@ -9,9 +9,6 @@
 <a href="https://dr.ph4nt0m.me" target="_blank">
   <img alt="https://dr.ph4nt0m.me | Website" height="30px" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fdr.ph4nt0m.me&label=https://dr.ph4nt0m.me" />
 </a>
-<a href="#">
-  <img alt="Prfile Views | GitHub" height="30px" src="https://komarev.com/ghpvc/?username=drph4nt0m&color=lightgrey&style=flat-square" />
-</a>
 
 I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and a student.
 
