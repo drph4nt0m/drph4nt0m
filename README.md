@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/ph4nt0m" target="_blank">
   <img alt="@ph4nt0m | LinkedIn" height="30px" src="https://img.shields.io/badge/ph4nt0m-235-lightgrey?logo=linkedin&style=for-the-badge" />
 </a>
-<a href="https://dr.ph4nt0m.me" target="_blank">
-  <img alt="https://dr.ph4nt0m.me | Website" height="30px" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fdr.ph4nt0m.me&label=https://dr.ph4nt0m.me" />
-</a>
 
 I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and a student.
 
