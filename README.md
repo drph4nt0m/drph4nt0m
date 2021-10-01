@@ -21,6 +21,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ## 🔭 I’m currently working on ...
 
 - This [AvBot v3](https://github.com/drph4nt0m/avbot-v3) discord bot
+- This [AvBot charts scrapper](https://github.com/drph4nt0m/avbot-charts)
 
 ## 🔧 Technologies & tools ...
 
@@ -38,12 +39,14 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 ## 🤔 I’m looking for help with ...
 
 - This [AvBot v3](https://github.com/drph4nt0m/avbot-v3) discord bot
+- This [AvBot charts scrapper](https://github.com/drph4nt0m/avbot-charts)
 
 ## 💬 Ask me about ...
 
 - Cybersecurity
 - Web Development
 - Discord Bots
+- Autmation/Scrapper
 
 ## 📈 GitHub stats ...
 
