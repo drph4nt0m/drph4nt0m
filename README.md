@@ -17,8 +17,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 
 ## 🔭 I’m currently working on ...
 
-- This [AvBot v3](https://github.com/drph4nt0m/avbot-v3) discord bot
-- This [AvBot charts scrapper](https://github.com/drph4nt0m/avbot-charts)
+- This [AvBot](https://github.com/drph4nt0m/avbot) discord bot
 
 ## 🔧 Technologies & tools ...
 
@@ -35,8 +34,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 
 ## 🤔 I’m looking for help with ...
 
-- This [AvBot v3](https://github.com/drph4nt0m/avbot-v3) discord bot
-- This [AvBot charts scrapper](https://github.com/drph4nt0m/avbot-charts)
+- This [AvBot](https://github.com/drph4nt0m/avbot) discord bot
 
 ## 💬 Ask me about ...
 
@@ -58,8 +56,8 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
   </a>
 </p>
 <p>
-  <a href="https://github.com/drph4nt0m/avbot-v3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drph4nt0m&repo=avbot-v3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/drph4nt0m/avbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drph4nt0m&repo=avbot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
