@@ -10,7 +10,7 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=MacOS&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-Webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=vscode&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=6e33ba)
