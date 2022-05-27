@@ -1,19 +1,6 @@
 ## Hello, folks! <img src="./readme_assets/wave.webp" width="30px">
 
-<a href="https://twitter.com/dr_ph4nt0m" target="_blank">
-  <img alt="@dr_ph4nt0m | Twitter" height="30px" src="https://img.shields.io/twitter/follow/dr_ph4nt0m?label=dr_ph4nt0m&logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/ph4nt0m" target="_blank">
-  <img alt="@ph4nt0m | LinkedIn" height="30px" src="https://img.shields.io/badge/ph4nt0m-235-lightgrey?logo=linkedin&style=for-the-badge" />
-</a>
-
 I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and a student.
-
-## Want to support me?
-
-<a href="https://ko-fi.com/drph4nt0m" target="_blank">
-  <img alt="https://ko-fi.com/drph4nt0m | Ko-Fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" height="40px;"/>
-</a>
 
 ## 🔭 I’m currently working on ...
 
@@ -23,7 +10,9 @@ I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Editor-Webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=vscode&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=6e33ba)
