@@ -1,7 +1,6 @@
 ## Hello, folks! <img src="./readme_assets/wave.webp" width="30px">
 
-I'm Rahul, an incoming cybersecurity enthusiast, a full stack web developer and a student.
-
+I'm Rahul, an incoming cybersecurity enthusiast and a full stack web developer.
 ## 🔭 I’m currently working on ...
 
 - This [AvBot](https://github.com/drph4nt0m/avbot) discord bot
